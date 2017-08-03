@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Entertainment</key>
+	<array>
+		<string>KAYAK</string>
+		<string>DiscoveryTW</string>
+	</array>
+	<key>Games</key>
+	<array>
+		<string>Cut the Rope</string>
+		<string>Angry Bird</string>
+		<string>Water</string>
+	</array>
+	<key>Utilities</key>
+	<array>
+		<string>Oil</string>
+		<string>DSFile</string>
+	</array>
+</dict>
+</plist>
